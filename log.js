@@ -1,0 +1,1 @@
+function togglePwd(){let p=document.getElementById("pwd");p.type=p.type==="password"?"text":"password";}
