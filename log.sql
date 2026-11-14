@@ -1,0 +1,1 @@
+CREATE TABLE log_users(id SERIAL PRIMARY KEY, username VARCHAR(50), password_hash VARCHAR(255), role VARCHAR(20));

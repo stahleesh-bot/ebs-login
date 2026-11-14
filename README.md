@@ -1,2 +1,2 @@
-# ebs-login
-Login Form
+# LOG Package
+Standalone login module package.
